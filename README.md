@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # ShareScribe - Collaborative Coding Platform
 
@@ -21,7 +20,7 @@ Check out the live demo of ShareScribe at [https://ShareScribe-ecru.vercel.app](
 1. Clone this repository to your local machine.
 
 ```code
-https://github.com/uniquesonu/ShareScribe.git
+https://github.com/meghakaushal19/ShareScribe.git
 ```
 
 cd ShareScribe
@@ -114,4 +113,4 @@ Push to the branch: git push origin feature/YourFeature
 Submit a pull request.
 Please ensure your pull request adheres to the code quality and style conventions followed in the project.
 
-> > > > > > > 5608d44 (data bases added)
+
